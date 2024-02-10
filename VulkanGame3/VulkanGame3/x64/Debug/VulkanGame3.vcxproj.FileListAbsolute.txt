@@ -1,0 +1,1 @@
+D:\Projects\C++\VulkanGame3\VulkanGame3\x64\Debug\VulkanGame3.vcxproj.CopyComplete
